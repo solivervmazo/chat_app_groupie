@@ -18,7 +18,6 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Credits
 Big thanks to
-
     [Backslash Flutter](https://www.youtube.com/@backslashflutter)
 Tutorial link
     [Chat App in Flutter and Firebase | Tutorial for Beginners to Advance | Android & iOS (Latest)](https://www.youtube.com/watch?v=Qwk5oIAkgnY&t=13234s)
