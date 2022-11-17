@@ -1,6 +1,6 @@
 # chat_app_groupie
 
-A new Flutter project.
+Learning Flutter #6
 
 ## Getting Started
 
